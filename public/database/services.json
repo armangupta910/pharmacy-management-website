@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "24/7 Pharmacy Help Line",
+    "description": "Need assistance with prescription medications? Our pharmacy help line is available 24 hours a day to answer your questions about medications, refills, and more. Whether you have queries about dosages or side effects, we’re here to help you navigate your pharmaceutical needs.",
+    "icon": "../assets/services/005-hot-line.png",
+    "image": "../assets/services/image/service-1.jpg",
+    "contactno": "1-800-238-6279",
+    "email": "iitpharmacy@iitj.ac.in",
+    "facebook": "https://www.facebook.com/IITJPharmacy",
+    "instagram": "https://www.instagram.com/IITJPharmacy"
+  },
+  {
+    "id": 2,
+    "title": "Medication Management Tools",
+    "description": "Access our comprehensive formulary list of medications and clinical policies to help you make informed decisions about your prescriptions. Our e-prescribing platform allows for seamless medication ordering and tracking, ensuring you receive your medications promptly and safely.",
+    "icon": "../assets/services/004-tools.png",
+    "image": "../assets/services/image/service-2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Special Medications",
+    "description": "For students with chronic or complex conditions, we offer specialty medications tailored to meet your health needs. Our pharmacy collaborates with healthcare providers to ensure quick dispensing of these critical drugs at affordable prices.",
+    "icon": "../assets/services/006-medical-care.png",
+    "image": "../assets/services/image/service-3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Pharmacy Assistance",
+    "description": "Our pharmacy team can assist you with claims related to your medication costs. We help you navigate the insurance process, ensuring you receive the maximum benefits available under your health plan.",
+    "icon": "../assets/services/002-medicine.png",
+    "image": "../assets/services/image/service-4.jpg"
+  },
+  
+  {
+    "id": 5,
+    "title": "Quality Assurance",
+    "description": "Our pharmacy is accredited by URAC, ensuring high standards of quality in healthcare delivery. We are committed to promoting health care quality through accreditation, education, and continuous measurement to improve our services.",
+    "icon": "../assets/services/007-injection.png",
+    "image": "../assets/services/image/service-6.jpg"
+  }
+]
